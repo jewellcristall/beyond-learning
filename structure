@@ -1,0 +1,35 @@
+beyond learning/
+│── assets/
+│    ├── script.js
+│    ├── style.css
+│    ├── style2.css
+│── includes/
+│    ├── auth.php               #for authentication and activity logging
+│    ├── db.php                 #database connection
+│── activity_logs.php           #activity logs file for users
+│── ad_actlogs.php              #activity logs file for admins
+│── add_class.php               #page to add new classes
+│── admin_class_request.php     #admin class requests management page
+│── admin_classes.php           #admin classes management page
+│── admin_dashboard.php         #admin dashboard file
+│── admin_login.php             #admin login page
+│── admin_settings.php          #admin's settings page where they can change password, name, etc.
+│── admin_view.php              #admin view page to see class details and enrolled users
+│── archived_classes.php        #archived classes of users
+│── available_classes.php       #available classes of users
+│── beyond_learning.sql         #database schema
+│── class_view.php              #this is where users can view class details
+│── dashboard.php               #main dashboard file for users
+│── delete_class.php            #deletes class in admin panel
+│── edit_class.php              #edits class in admin panel
+│── enroll.php                  #enrollment page for users
+│── get_active_hours.php        #fetch active hours for dashboard
+│── index.php                   #landing page of users where they can login or signup
+│── login.php                   #login page
+│── logout.php                  #logout page
+│── my_classes.php              #my classes page for users
+│── register.php                #registration page for new users
+│── request_class.php           #page for users to request a new class
+│── settings.php                #settings page for users to change password, name, etc.
+│── signup.php                  #signup page for new users
+│── structure                   #the structure of the project
